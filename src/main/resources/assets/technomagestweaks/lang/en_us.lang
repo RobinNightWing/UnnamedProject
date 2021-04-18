@@ -1,0 +1,112 @@
+itemGroup.technomagestweaks=Technomages Tweaks by Adrian
+
+//Materials
+item.holy_silver.name=Holy Silver
+item.corrupted_silver.name=Corrupted Silver
+item.angelic_steel.name=Angelic Steel
+item.pure_steel.name=Pure Steel
+item.valerian_steel.name=Valerian Steel
+item.blood_diamond.name=Blood Diamond
+item.magical_planks.name=Magical Planks
+item.elven_planks.name=Elven Planks
+item.gaia_planks.name=Gaia Planks
+item.blackest_black.name=The Blackest Black Dye
+item.mekanistic_plate.name=Mekanstic Plate
+item.nether_star_dust.name=Nether Star Dust
+item.mystech_first_order.name=Mystech Ingot First Order
+item.mystech_second_order.name=Mystech Ingot Second Order
+item.mystech_third_order.name=Mystech Ingot Third Order
+item.mystech_fourth_order.name=Mystech Ingot Fourth Order
+item.mystech_fifth_order.name=Mystech Ingot Fifth Order
+item.mystech_sixth_order.name=Mystech Ingot Sixth Order
+item.mystech_seventh_order.name=Mystech Ingot Seventh Order
+item.mystech_eighth_order.name=Mystech Ingot Eighth Order
+item.mystech_ninth_order.name=Mystech Ingot Ninth Order
+item.mystech_tenth_order.name=Mystech Ingot Tenth Order
+item.mystech_eleventh_order.name=Mystech Ingot Eleventh Order
+item.mystech_twelfth_bottom.name=Mystech Ingot Twelfth Order Part 1
+item.mystech_twelfth_top.name=Mystech Ingot Twelf Order Part 2
+
+//Uranium
+item.glass_vial.name=Glass Vial
+item.treated_glass_vial.name=Treated Glass Vial
+item.untreated_uranium_vial.name=Untreated Uranium Vial
+item.treated_uranium_vial.name=Treated Uranium Vial
+item.enriched_uranium_vial.name=Enriched Uranium Vial
+item.pure_uranium_vial.name=Pure Uranium Vial
+
+//Currency
+item.coin.name=Coin
+item.coin_stack.name=Stack of Coins
+item.coin_sack.name=Sack of Coins
+item.coin_chest.name=Chest of Coins
+
+//Blocks
+tile.white_oak_log.name=Heavenly Log
+tile.white_oak_leaves.name=Heavenly Leaves
+tile.white_oak_bark_vertical.name=Heavenly Bark (Vertical)
+tile.white_oak_bark_horizantal.name=Heavenly Bark (Horizantal)
+tile.thatch.name=Thatch
+tile.thatch_slab_half.name=Half o' Thatch
+tile.thatch_roofing.name=Thatch Roofing
+tile.heavenly_dirt.name=Heavenly Dirt
+tile.heavenly_grass.name=Heavenly Grass
+
+//Flora
+tile.heavenly_tall_grass.name=Heavenly Grass
+tile.lavender_flower.name=Lavender Flower
+tile.white_flower.name=White Flower
+tile.blue_flower.name=Blue Flower
+tile.light_blue_flower.name=Light Blue Flower
+tile.ice_lily.name=Ice Lily
+tile.bloo_floo.name=Bloo Floo
+tile.little_blue_green_flower.name=Little Blue Green Flower
+tile.blue_grass_flower.name=Blue Grass Flower
+
+//Weapons
+item.runic_sword.name=Cel's Blade
+item.chainsaw.name=Chainsaw
+item.lance.name=Lance
+item.rapier.name=Rapier
+item.spear.name=Spear
+item.heart_rapier.name=Heart Rapier
+item.broadsword.name=Broadsword
+
+//Sweets
+item.mochi.name=Mochi
+item.peanut_butter_cookie.name=Peanut Butter Cookie
+item.pink_donut.name=Pink Donut
+item.pink_heart_cookie.name=Pink Heart Cookie
+item.pink_macaron.name=Pink Macaroon
+item.rainbow_cake.name=Rainbow Cake
+item.raspberry_cheesecake.name=Raspberry Cheesecake
+item.red_velvet_cake.name=Red Velvet Cake
+item.square_cookie.name=Square Cookie
+item.star_cookie.name=Star Cookie
+item.strawberry_shortcake.name=Strawberry Shortcake
+item.striped_cookie.name=Striped Cookie
+item.tea.name=Tea
+item.tiramusa.name=Tiramusa
+item.vanilla_macaron.name=Vanilla Macaroon
+item.very_berry_cake.name=Very Berry Cake
+item.yellow_macaroon.name=Yellow Macaroon
+item.beer.name=Beer
+item.blueberry_cheesecake.name=Blueberry Cheesecake
+item.butter_cookie.name=Butter Cookie
+item.carrot_cake.name=Carrot Cake
+item.cheesecake.name=Cheesecake
+item.chocolate_cake.name=Chocolate Cake
+item.chocolate_macaron.name=Chocolate Macaron
+item.cookie_cheesecake.name=Cookie Cheesecake
+item.cookie_with_creme.name=Oreo
+item.cupcake.name=Cupcake
+item.cursed_cookie.name=Cursed Cookie
+item.gingerbread_cookie.name=Gingerbread Cookie
+item.gingersnap.name=Gingersnap
+item.glazed_donut.name=Glazed Donut
+item.half_cookie.name=Half and Half Cookie
+item.heart_cookie.name=Heart Cookie
+item.jam_heart_cookie.name=Jam Heart Cookie
+item.macaroon.name=Macaron
+item.matcha_macaroon.name=Matcha Macaron
+item.meringue_pie.name=Meringue Pie

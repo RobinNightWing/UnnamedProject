@@ -1,0 +1,16 @@
+[
+{
+  "modid": "technomagestweaks",
+  "name": "Techno Mages Tweaks",
+  "description": "A cool mod that adds new RPG magic and tech items to the game",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Adrian"],
+  "credits": "Special thanks to Grim, Ozy, Elder, Hyper, Skian, Stalin, Foosball, Celphone, WitherZiby",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

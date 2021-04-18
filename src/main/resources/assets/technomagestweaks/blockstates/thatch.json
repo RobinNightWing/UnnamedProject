@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "technomagestweaks:thatch"
+    },
+    "axis=z": {
+      "model": "technomagestweaks:thatch",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "technomagestweaks:thatch",
+      "x": 90,
+      "y": 90
+    },
+    "axis=none": {
+      "model": "technomagestweaks:thatch"
+    }
+  }
+}

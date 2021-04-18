@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all":"technomagestweaks:blocks/white_oak_bark_horizantal"
+	}
+}

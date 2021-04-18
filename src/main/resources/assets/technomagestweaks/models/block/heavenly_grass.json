@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "technomagestweaks:blocks/heavenly_dirt",
+    "top": "technomagestweaks:blocks/heavenly_grass_top",
+    "side": "technomagestweaks:blocks/heavenly_grass_side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "technomagestweaks:blocks/white_oak_log_top",
+    "side": "technomagestweaks:blocks/white_oak_log_vertical"
+  }
+}

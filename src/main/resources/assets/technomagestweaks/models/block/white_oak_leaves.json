@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all":"technomagestweaks:blocks/white_oak_leaves"
+    }
+}
